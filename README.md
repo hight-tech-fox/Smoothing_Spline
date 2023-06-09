@@ -1,8 +1,9 @@
 # Smoothing_Spline
 In this article, we explore the approximation of functions using a smoothing spline, determine what is affected by the smoothing parameter and the variation of weight coefficients in a discrete scalar product.
 
-<h4>Technical task</h4>
+<h3>Technical task</h3>
 Construct a smoothing spline for the number of observations n=1784, where values are a random variable x with parameters m=1.01, std=3.85.
+<h3>Task Analysis</h3>
 
 The array of points was obtained in MS Excel using the formula НОРМОБР(СЛЧИС();M;σ).
 Graphs were constructed for various values of the smoothing parameter p. With w=1.0.
