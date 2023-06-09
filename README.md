@@ -1,4 +1,4 @@
-# Smoothing_Spline
+# Smoothing Spline
 In this article, we explore the approximation of functions using a smoothing spline, determine what is affected by the smoothing parameter and the variation of weight coefficients in a discrete scalar product.
 
 <h2>Technical task</h2>
