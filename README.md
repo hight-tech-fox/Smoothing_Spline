@@ -14,3 +14,6 @@ graph trends).
 https://www.desmos.com/calculator/xkxwquxndk
 
 ![qP1P_eltCzw](https://github.com/hight-tech-fox/Smoothing_Spline/assets/106419860/278b4bbb-1b30-4454-b8e7-22028737590e)
+<h4>При p=0.4:</h4>
+https://www.desmos.com/calculator/eno0d0xhc9
+![image](https://github.com/hight-tech-fox/Smoothing_Spline/assets/106419860/f8fb4c02-b592-4714-bedb-616ac9a4a775)
