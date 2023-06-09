@@ -17,3 +17,5 @@ https://www.desmos.com/calculator/xkxwquxndk
 <h4>При p=0.4:</h4>
 https://www.desmos.com/calculator/eno0d0xhc9
 ![image](https://github.com/hight-tech-fox/Smoothing_Spline/assets/106419860/f8fb4c02-b592-4714-bedb-616ac9a4a775)
+<h3>При p=0.6:</h3>
+<h4>При p=0.8:</h4>
