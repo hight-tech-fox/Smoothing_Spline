@@ -12,5 +12,5 @@ graph trends).
 
 <h4>При p=0.2:</h4>
 https://www.desmos.com/calculator/xkxwquxndk
-![image](https://sun9-63.userapi.com/impg/a55xRGDxQUWe_xxHdshXBuaEOyCjQphQrNyEQA/qP1P_eltCzw.jpg?size=961x1201&quality=96&sign=bdd517f91420704edcc05a4a44287dc1&type=album)
-![image](https://user-images.githubusercontent.com/98911288/204526168-1a87b54b-74b7-41ed-9b92-397288aa036e.png)
+![image](https://github.com/hight-tech-fox/Smoothing_Spline/blob/main/qP1P_eltCzw.jpg)
+
