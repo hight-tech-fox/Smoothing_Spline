@@ -1,18 +1,14 @@
 # Smoothing_Spline
-<h1>Coursework</h1>
+In this article, we explore the approximation of functions using a smoothing spline, determine what is affected by the smoothing parameter and the variation of weight coefficients in a discrete scalar product.
 
-This program solves the following problem: 
-In a system of two-way roads, find a path from city A to city B with the minimum value of P+S, where S is the sum of the lengths of the roads and P is the sum of the tolls on them.
+<h4>Technical task</h4>
+Construct a smoothing spline for the number of observations n=1784, where values are a random variable x with parameters m=1.01, std=3.85.
 
-<h3>2.1. Initial data of the task</h3>
-Cohen–Sutherland clipping algorithm clips a line from line_first (x, y) to line_second (x, y) against a rectangle with diagonal from rect_min (x, y) to rect_max (x, 
-<h3>2.2. Result:</h3>
-If the program worked correctly, the output file will look like this: The first line of the out.txt output file displays the phrase "Least sum of road lengths and 
+The array of points was obtained in MS Excel using the formula НОРМОБР(СЛЧИС();M;σ).
+Graphs were constructed for various values of the smoothing parameter p. With w=1.0.
+On all graphs, black dots are observations, colored dots are a smoothing spline for a given p. To make the point spread more distinct, the values of the observations and the values obtained by the smoothing spline were multiplied by 100 (this changed the scale, but did not affect the overall
+graph trends).
 
-<h3>2.3 Solution: The mathematical model is a multigraph, undirected, weighted, disconnected, labeled.</h3>
+<h4>При p=0.2:</h4>
+https://www.desmos.com/calculator/xkxwquxndk
 
-<h4>Graph analysise:</h4>
-
-
-<h4>Input data analysis:</h4>
-Check the number of cities for a positive value. If the number of cities is set to a non-positive value, then the following phrase will be output to the file: 
