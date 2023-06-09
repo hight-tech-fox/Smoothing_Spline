@@ -12,18 +12,22 @@ graph trends).
 т
 <h3>При p=0.2:</h3>
 https://www.desmos.com/calculator/xkxwquxndk
+
 ![qP1P_eltCzw](https://github.com/hight-tech-fox/Smoothing_Spline/assets/106419860/278b4bbb-1b30-4454-b8e7-22028737590e)
 
 <h3>При p=0.4:</h3>
 https://www.desmos.com/calculator/eno0d0xhc9
+
 ![9lM5pi0eYE4](https://github.com/hight-tech-fox/Smoothing_Spline/assets/106419860/139f1c86-2c2c-476b-8dff-e335de1a4ce5)
 
 <h3>При p=0.6:</h3>
 https://www.desmos.com/calculator/3qpq6ld2dn
+
 ![p6p8hTnVBd0](https://github.com/hight-tech-fox/Smoothing_Spline/assets/106419860/a90306cb-f86e-41ec-af55-d8f15c47cc43)
 
 <h3>При p=0.8:</h3>
 https://www.desmos.com/calculator/ddsdddyomx
+
 ![7KTvgsidbzc](https://github.com/hight-tech-fox/Smoothing_Spline/assets/106419860/3897f1ce-3dff-46fa-9494-73fb64eec30f)
 
 Note that with an increase in the smoothing parameter p, the resulting graph is pressed closer to the x-axis and smoothed out. We get that the higher the smoothing parameter, the higher the error and, consequently, the lower the accuracy. It can be assumed that as p tends to unity, the resulting graph will tend to
